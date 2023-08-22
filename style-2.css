@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+   padding: 0;
+}
+
+body{
+   font-family: 'Poppins', sans-serif;
+   background-color: #962a91;
+   color: white;
+}
+
+.cabecalho {
+   background-color: #942d94;
+   color:  white;
+   display: flex ;
+   justify-content: space-around;
+   padding: 24px 0;
+}
+
+.cabecalho-imagem{
+     width: 20%;
+
+
+}
+
+.link-icone{
+   width: 50px;
+   padding: 5 5;
+
+}
+
+.cabecalho-lista-item{
+   display: inline-block;
+   margin: 25px 25px;
+   font-size: 23px;
+}
+
+
+.escola-imagem{
+   width: 25%;
+}
+
+.escola{
+   background-image: #962a91;
+   color: white;
+   display: flex;
+   justify-content:  center; 
+   align-items: center;
+   padding: 24px 0;
+}
+
+.escola-div-conteudo{
+   width: 25%;
+}
+.escola-titulo{ 
+   
+   padding: 35px;
+   background-image: #962a91;
+   color: white;
+
+}
+
+.nois{
+   margin: 2%;
+   text-align: left;
+}
+
+.duda1{
+   width: 140px;
+   padding: 5 5;
+}
+
+.textin-duda{
+   text-align: left;
+   margin-top: 2%;
+   padding: 5 5;
+   padding-bottom: 2%;
+   }
+
+   .Lauan1{
+      width: 140px;
+      padding: 5 5;
+   }
+   
+   .textin-lauan{
+      text-align: left;
+      margin-top: 2%;
+      padding: 5 5;
+      padding-bottom: 2%;
+      }
+
+      .adrian1{
+         width: 140px;
+         padding: 5 5;
+      }
+      
+      .textin-adrian{
+         text-align: left;
+         margin-top: 2%;
+         padding: 5 5;
+         padding-bottom: 2%;
+         }
+
+         .djonatan1{
+            width: 140px;
+            padding: 5 5;
+         }
+         
+         .textin-djonatan{
+            text-align: left;
+            margin-top: 2%;
+            padding: 5 5;
+            padding-bottom: 2%;
+            }
+
+            .fernando1{
+               width: 140px;
+               padding: 5 5;
+            }
+            
+            .textin-fernando{
+               text-align: left;
+               margin-top: 2%;
+               padding: 5 5;
+               padding-bottom: 2%;
+               }
+   
+               .alvaro1{
+                  width: 140px;
+                  padding: 5 5;
+               }
+               
+               .textin-alvaro{
+                  text-align: left;
+                  margin-top: 2%;
+                  padding: 5 5;
+                  padding-bottom: 2%;
+                  }
+
+
+                  .estudante-icone{
+                     width: 24px;
+                     padding: 5 5;
+                 }
+
+
+
+.rodape1{
+   background-color: black;
+   text-align: center;
+}
+
+.rodape-imagem1{
+   height: 60px;
+   padding: 12px 0;
+}
+

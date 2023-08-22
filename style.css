@@ -1,0 +1,94 @@
+*{
+     margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.cabecalho {
+    background-color: #962a91;
+    color:  white;
+    display: flex ;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+      width: 20%;
+
+
+}
+
+.link-icone{
+    width: 50px;
+    padding: 5 5;
+ 
+ }
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 25px 25px;
+    font-size: 23px;
+}
+
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient(#962a91,#942d94, #220013);
+    color: white;
+    display: flex;
+    justify-content:  center; 
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 25%;
+}
+.escola-titulo{ 
+    padding: 24px;
+}
+
+.nois-2{
+    margin: 2%;
+    text-align: left;
+ }
+ 
+ .duda3{
+    width: 150px;
+    padding: 5 5;
+ }
+ 
+ .textin-duda3{
+    text-align: left;
+    margin-top: 2%;
+    padding: 5 5;
+    padding-bottom: 2%;
+    }
+
+    .Lauan3{
+        width: 140px;
+        padding: 5 5;
+     }
+     
+     .textin-lauan3{
+        text-align: left;
+        margin-top: 2%;
+        padding: 5 5;
+        padding-bottom: 2%;
+        }
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
